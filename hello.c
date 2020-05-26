@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-	printf("hello git");
+	printf("hello git modify1");
 	return 0;
 }
